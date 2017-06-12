@@ -10,6 +10,6 @@ The step-by-step codes will show in order.
 brew install mercurial
 brew install sdl sdl_image sdl_mixer sdl_ttf smpeg portmidi
 python3 -m venv anenv
-pip install hg+http://bitbucket.org/pygame/pygame
+pip3 install hg+http://bitbucket.org/pygame/pygame
 ```
 see more:[http://www.pygame.org/wiki/MacCompile](http://www.pygame.org/wiki/MacCompile)
